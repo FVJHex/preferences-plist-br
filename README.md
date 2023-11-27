@@ -1,6 +1,4 @@
 # preferences-plist-br
- 
-Author: FVJHex
 
 Description: Backups and restores the preferences.plist file located at "/Library/Preferences/SystemConfiguration/preferences.plist".
               The preferences.plist file is backed up to a zip folder in the users home directory.
